@@ -28,7 +28,7 @@ while :
 do
     # pull targets
     echo "Pull targets"
-    cd ./ph_targets/ && git pull &
+    cd ./ph_targets/ && git pull origin main &
     wait 
 
     while [[ $i -ne $TREADS ]]
