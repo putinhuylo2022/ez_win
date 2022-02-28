@@ -2,6 +2,10 @@
 
 TARGET_PATH="$(pwd)/ph_targets/target.txt"
 
+#init target
+git submodule init
+git submodule update
+
 # get args
 while getopts t: flag
 do
