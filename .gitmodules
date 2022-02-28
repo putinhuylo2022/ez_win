@@ -1,0 +1,3 @@
+[submodule "ph_targets"]
+	path = ph_targets
+	url = https://github.com/putinhuylo2022/ph_targets
