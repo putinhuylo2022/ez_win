@@ -16,7 +16,7 @@
 
 ***В терміналі ввести:***
 
-git clone https://github.com/putinhuylo2022/ph_service
+    git clone https://github.com/putinhuylo2022/ph_service
 
 ***В терміналі ввести:***
 
