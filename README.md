@@ -18,7 +18,7 @@
 
     git clone https://github.com/putinhuylo2022/ph_service
 
-***В терміналі ввести:***
+***Якщо немає утиліти wrk, або ви не розумієте що це, то потрібно виконати це:***
 
     cd ph_service && ./install.sh
 
